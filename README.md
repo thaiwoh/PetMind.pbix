@@ -6,7 +6,7 @@ PetMind is a U.S.-based pet retailer looking to optimize its product offerings a
 
 ### Some of the question i answered were 
 1. **Top Revenue & Profit Categories:** Identifying the most profitable product categories for each pet type.
-2 **.Repeat Purchases Impact:** Evaluating how frequently bought products contribute to revenue and profit.
+2. **.Repeat Purchases Impact:** Evaluating how frequently bought products contribute to revenue and profit.
 3. **Product Size Influence:** Understanding how product sizes affect sales to gain insights into customer pet ownership trends.
 4. **Top Revenue & Profit by Animals:**  Identifying the most profitable Animals.
 
