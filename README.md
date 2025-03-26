@@ -12,7 +12,7 @@ PetMind is a U.S.-based pet retailer looking to optimize its product offerings a
 
 # Tools I Used
 For my deep dive into the Pet Store Data, i harnessed the power of several key tools
-- **Excel:** Excel was used for initial data exploration, cleaning, and basic analysis. Functions like VLOOKUP, INDEX/MATCH, Pivot Tables, and conditional formatting helped in  organizing and summarizing key insights.
+- **Excel:** Excel was used for initial data exploration, cleaning, and basic analysis. Functions like XLOOKUP, INDEX/MATCH, Pivot Tables, and conditional formatting helped in  organizing and summarizing key insights.
 - **Power Query:** Power Query streamlined data transformation tasks such as data cleaning, merging, and shaping before loading into Power BI. It automated repetitive processes and 
     ensured data consistency.
 - **Power BI:** Power BI was the primary tool for data visualization and analysis. It enabled the creation of interactive dashboard, and insightful reports to track performance and trends.
@@ -20,7 +20,7 @@ For my deep dive into the Pet Store Data, i harnessed the power of several key t
 - **GitHub:** GitHub served as the central repository for storing and sharing my project. It helped in collaboration, documentation, and maintaining a structured workflow for version 
    management.
 
-  # THE Analysis
+  # The Analysis
   Here's how i tackeled each question to draw out insights
 
   ### 1. **Top Revenue & Profit Categories:**
