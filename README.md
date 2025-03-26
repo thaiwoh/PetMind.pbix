@@ -1,7 +1,7 @@
 # PetMind.pbix
 This Project is about a Pet Store
 
-#Introduction
+# Introduction
 PetMind is a U.S.-based pet retailer looking to optimize its product offerings and business strategy. 
 
 ### Some of the question i answered were 
